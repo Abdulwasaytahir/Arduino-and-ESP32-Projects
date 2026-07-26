@@ -9,7 +9,7 @@ const char* password = "6strings";
 
 // OpenAI API
 const char* api_host = "api.openai.com";
-String api_key = "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";   // apni API key yahan likho
+String api_key = "Your API Key";   // apni API key yahan likho
 String model = "gpt-4.1-mini";
 
 WebServer server(80);
