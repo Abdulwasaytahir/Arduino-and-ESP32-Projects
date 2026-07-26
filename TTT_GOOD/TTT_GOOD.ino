@@ -5,7 +5,7 @@
 
 const char* ssid = "home";
 const char* password = "6strings";
-String apiKey = "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"; 
+String apiKey = "Your API Key"; 
 
 WebServer server(80);
 
