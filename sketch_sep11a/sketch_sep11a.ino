@@ -7,7 +7,7 @@
 const char* ssid = "home";
 const char* password = "6strings";
 // Google Cloud Speech-to-Text API URL
-const char* speechToTextApiUrl =  "https://speech.googleapis.com/v1/speech:recognize?key=AIzaSyAEU-HlZkR0eaJciJO7kOsP6RLTHNgGUD4";
+const char* speechToTextApiUrl =  "---";
 
 // I2S configuration for the INMP441 microphone
 #define I2S_WS 25
