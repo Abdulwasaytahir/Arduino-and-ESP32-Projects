@@ -12,7 +12,7 @@ const char* ssid = "Your_SSID";
 const char* password = "Your_PASSWORD";
 const char* speechToTextAPIKey = "Your_Speech_to_Text_API_Key";
 const char* gpt3ApiKey = "Your_GPT3_API_Key";
-const char* speechToTextURL = "https://speech.googleapis.com/v1/speech:recognize?key=";
+const char* speechToTextURL = "---";
 const char* gpt3URL = "https://api.openai.com/v1/completions";
 
 // I2S setup
